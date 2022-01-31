@@ -11,3 +11,28 @@ single source version control system). Most of the command names have been kept 
 Clone this repository and run `javac gitlet/*.java`.  
 Then to initialize a repository run `java gitlet.Main init`.  
 Adding a file to be tracked and staged is as simple as `java gitlet.Main filename`.
+
+## Screenshots
+### Initialize the Gitlet repository.
+![Initialize the Gitlet repository](./images/init.png)
+
+### Adding a file to the staging area
+![Adding a file to the staging area](./images/add.png)
+
+### Directory Structure after adding a file
+![Directory Structure after adding a file](./images/structure.png)
+
+### Creating a new commit
+![Creating a new commit](./images/commit.png)
+
+### Checking out a file
+![Checking out a file](./images/checkout.png)
+
+### Creating a new branch
+![Creating a new branch](./images/branch.png)
+
+### Get repository status
+![Get repository status](./images/status.png)
+
+### Get branch log
+![Get branch log](./images/log.png)
